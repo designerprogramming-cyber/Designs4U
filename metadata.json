@@ -1,0 +1,5 @@
+{
+  "name": "International User Authentication",
+  "description": "A sleek, bilingual (English/Arabic) user authentication application featuring registration with international phone numbers, email verification, and a modern user interface.",
+  "requestFramePermissions": []
+}
